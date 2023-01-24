@@ -1,7 +1,7 @@
 ﻿# <p align="center"> :paintbrush:DALL-E_Clone </p>
  
 
-
+<p align="center"> <img src="https://cdn.openai.com/dall-e-2/demos/text2im/astronaut/horse/photo/0.jpg" alt="dalle_image" width="50%"/> </p>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind logo" width="40px" height="40px"/>
